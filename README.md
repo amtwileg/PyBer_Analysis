@@ -3,14 +3,14 @@
 The purpose of the new analysis is to compare fares by city type, riders, and drivers.
 
 ## Results
-![x](analysis/Pyber_fare_summary_df.png)
+![x](Pyber_fare_summary_df.png)
 
 It can be seen from the summary dataframe above that:
 1. Urban type receives the most rides / drivers / total fares (then suburban, then rural)
 2. Average fare per ride and driver is largest in rural, then suburban, then urban
 3. Rural and suburban have more rides than drivers, whereas urban has the opposite relationship
 
-![img](analysis/PyBer_fare_summary.png)
+![img](PyBer_fare_summary.png)
 
 It can be seen from the multiple-line chart that:
 1. Total fare is fairly stable by type over time
